@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+
+
+<?xml-stylesheet type="text/xsl" href="db.xsl"?>
+
+
+
+
+
+<dbLRT>
+
+<books>
+<Fila>
+<book>
+
+
+
+<txt>
+
+<lang_it>
+<Il_Fila>
+<tit>Il '' Fila '' </tit>
+<subtit>Il luogo, il simbolo del cuore granata ieri, oggi</subtit>
+<autore>Gian Carlo Morino</autore>
+<year>2017</year>
+<edit>1</edit>
+<isbn>9788880688280</isbn>
+<opac_permalink>http://id.sbn.it/bid/BMT0009482
+</opac_permalink>
+<img>immagini/copertine/40anniToro.jpg
+</img>
+</Il_Fila>
+
+</lang_it>
+
+<lang_en>
+</lang_en>
+<lang_fr>
+</lang_fr>
+<lang_nl>
+</lang_nl>
+</txt>
+</book>
+
+
+
+
+
+
+<e_book>
+</e_book>
+</Fila>
+
+
+
+</books>
+</dbLRT>

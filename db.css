@@ -1,0 +1,17 @@
+*{margin:0; padding:0;}
+
+#box
+{margin:0 auto; border:solid maroon;width:1000px;height:800px;color:maroon;border-width:1px;}
+
+h2{text-align:center; border:solid maroon;border-width:1.0px;font-size:2.25em;font-style:italic;margin-top:10px;}
+
+
+
+
+
+
+
+
+figure{display:inline-block;width:200px; height:250px; border:solid maroon;border-width:1px;}
+img{width:100%;height:100%;}
+figcaption{width:200px;border:solid maroon;border-width:1.0px;text-align:center;margin-left:-1px;}

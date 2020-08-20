@@ -35,7 +35,8 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 </img>
 
 <figcaption>
-<p>buuadgasidvs caskjxxsdsff</p>
+<p>ISBN:<br>
+   scheda dettagliata</p>
 </figcaption>
 </figure>
 </xsl:for-each>
